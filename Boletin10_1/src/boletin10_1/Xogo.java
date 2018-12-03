@@ -65,6 +65,7 @@ public class Xogo {
             } else {
 
                 JOptionPane.showMessageDialog(null, "¡¡Enhorabuena, Has acertado!!");
+                break;
             }
 
         }
